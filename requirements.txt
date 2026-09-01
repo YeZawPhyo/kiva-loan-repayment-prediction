@@ -1,10 +1,10 @@
 scikit-learn==1.6.1
-imbalanced-learn==0.13.0
+imbalanced-learn==0.14.0
 numpy==1.26.4
 pandas==2.2.2
 joblib==1.4.2
 scipy==1.13.1
-xgboost==2.1.1
-catboost==1.2.7
+xgboost==3.4.1
+catboost==1.2.10
 streamlit==1.49.1
 matplotlib==3.9.2
