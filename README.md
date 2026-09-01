@@ -26,4 +26,4 @@ non-commercial academic use. The dataset itself is not included in this
 repository for licensing and ethics reasons.
 
 ## Live prototype
-[[https://r227nxf3l8vgbdda6r6pbb.streamlit.app/](https://kiva-loan-repayment-prediction-gl2wn9e5jnnn9sva3sh6vb.streamlit.app/)](https://kiva-loan-repayment-prediction-gl2wn9e5jnnn9sva3sh6vb.streamlit.app/)
+https://kiva-loan-repayment-prediction-gl2wn9e5jnnn9sva3sh6vb.streamlit.app/
