@@ -1,1 +1,0 @@
-streamlit run /Users/yairzawphyo/Downloads/KIVA\ Project/streamlit_app-1.py
