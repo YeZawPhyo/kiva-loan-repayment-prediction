@@ -66,6 +66,24 @@ FEATURE_HELP = {
     "partner_id": "Identifier of the Kiva field partner handling the loan.",
     "posted_dayofweek": "0 = Monday and 6 = Sunday.",
     "disbursal_dayofweek": "0 = Monday and 6 = Sunday.",
+
+    "terms.loss_liability.nonpayment": (
+        "Who bears the loss if this loan is not repaid: the field partner "
+        "or the lender. This is the strongest predictor in the model."
+    ),
+    "terms.loss_liability.currency_exchange": (
+        "Who bears the risk if the local currency loses value against "
+        "the US dollar before the loan is repaid."
+    ),
+    "location.geo.level": (
+        "Whether the borrower's location is known down to the town, "
+        "or only to the country."
+    ),
+    "posted_year": "The year the loan was first posted on Kiva.",
+    "posted_month": "The month the loan was first posted on Kiva (1 = January).",
+    "posted_quarter": "The quarter of the year the loan was posted (1 to 4).",
+    "disbursal_year": "The year the loan amount was actually paid to the borrower.",
+    "disbursal_month": "The month the loan amount was paid to the borrower (1 = January).",
 }
 
 CATEGORY_DISPLAY_NAMES = {
